@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: rest-api
-        image: foo:0.1
+        image: helgapershakova/rest-api-project:0.1
         ports:
         - containerPort: 8000
